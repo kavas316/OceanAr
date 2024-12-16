@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239695698755",
+    "project_id": "oceanar-d60d9",
+    "storage_bucket": "oceanar-d60d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239695698755:android:6049b0dea01c6cbe60edf6",
+        "android_client_info": {
+          "package_name": "com.normdigital.oceanar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-2XknAiOk-i4YoQkJ1ifJDl4n7rRILk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
